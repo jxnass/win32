@@ -577,6 +577,13 @@ Encryption level for secure transactions: 40-bit, 128-bit, or *n*-bit.
 
 
 </dt> <dd></dd> <dt>
+  
+<span id="256-bit"></span><span id="256-BIT"></span>
+
+**256-bit** (1)
+
+
+</dt> <dd></dd> <dt>
 
 <span id="n-bit"></span><span id="N-BIT"></span>
 
